@@ -1,8 +1,18 @@
 <!--
   PROFILE README for github.com/JustinC0407
+  To publish: create a repo named exactly "JustinC0407", add BOTH this README.md
+  and header.svg to the repo root.
 -->
 
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:059669,50:34D399,100:BEF264&height=200&section=header&text=%E2%9C%A6%20Justin%20Chen%20%E2%9C%A6&fontSize=54&fontColor=ffffff&animation=twinkling&fontAlignY=42&desc=Software%20Engineer%20%C2%B7%20ML%20Systems%20%C2%B7%20Artist&descSize=18&descAlignY=68" width="100%" />
+<p align="center">
+  <img src="./header.svg" width="100%" alt="Justin Chen" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/JustinC0407">
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=10B981&center=true&vCenter=true&width=520&lines=Building+ML+systems+from+scratch;Android+%40+TikTok+Visual+Search;Incoming+SDE+%40+Amazon;Artist+when+the+screen+goes+dark" alt="typing" />
+  </a>
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/justinchen06/">
