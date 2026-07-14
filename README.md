@@ -1,13 +1,11 @@
 <!--
   PROFILE README for github.com/JustinC0407
-  To publish: create a repo named exactly "JustinC0407", add this as README.md.
-  TODO: replace YOUR-HANDLE in the LinkedIn badge below with your real LinkedIn handle.
 -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:22D3EE&height=190&section=header&text=Justin%20Chen&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Software%20Engineer%20%C2%B7%20ML%20Systems%20%C2%B7%20Painter&descSize=18&descAlignY=58" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:059669,50:34D399,100:BEF264&height=200&section=header&text=%E2%9C%A6%20Justin%20Chen%20%E2%9C%A6&fontSize=54&fontColor=ffffff&animation=twinkling&fontAlignY=42&desc=Software%20Engineer%20%C2%B7%20ML%20Systems%20%C2%B7%20Artist&descSize=18&descAlignY=68" width="100%" />
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR-HANDLE">
+  <a href="https://www.linkedin.com/in/justinchen06/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:justin.s.chen@columbia.edu">
@@ -26,7 +24,7 @@
 - 💻 &nbsp;Building on **TikTok's** Visual Search team (Android)
 - 🚀 &nbsp;Incoming **Amazon** SDE Intern, Advertising Backend
 - 🧠 &nbsp;Into ML systems: from-scratch transformers, inference servers, data pipelines
-- 🎨 &nbsp;Painter and artist when the screen goes dark
+- 🎨 &nbsp;Artist when the screen goes dark
 
 ---
 
@@ -60,16 +58,9 @@
 
 ---
 
-### 📌 Featured Work
-
-- **From-Scratch GPT-2 Stack** &nbsp;·&nbsp; 124M model built from scratch with an async inference server (continuous batching, paged KV cache) hitting 1,400 tok/sec
-- **TextToHandwritingAI** &nbsp;·&nbsp; Full-stack app generating user-specific handwriting via an LSTM + mixture density network, rendered live to SVG
-
----
-
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=JustinC0407&show_icons=true&hide_border=true&title_color=6366F1&icon_color=22D3EE&text_color=768390&bg_color=00000000" alt="stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JustinC0407&layout=compact&hide_border=true&title_color=6366F1&text_color=768390&bg_color=00000000" alt="top languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=JustinC0407&show_icons=true&hide_border=true&title_color=059669&icon_color=34D399&text_color=768390&bg_color=00000000" alt="stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JustinC0407&layout=compact&hide_border=true&title_color=059669&text_color=768390&bg_color=00000000" alt="top languages" />
 </div>
 
 <p align="center"><i>Always building something. Sometimes it's code, sometimes it's a canvas.</i></p>
