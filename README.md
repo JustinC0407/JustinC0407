@@ -1,7 +1,5 @@
 <!--
   PROFILE README for github.com/JustinC0407
-  To publish: create a repo named exactly "JustinC0407", add BOTH this README.md
-  and header.svg to the repo root.
 -->
 
 <p align="center">
@@ -10,7 +8,7 @@
 
 <p align="center">
   <a href="https://github.com/JustinC0407">
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=10B981&center=true&vCenter=true&width=520&lines=Building+ML+systems+from+scratch;Android+%40+TikTok+Visual+Search;Incoming+SDE+%40+Amazon;Artist+when+the+screen+goes+dark" alt="typing" />
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=10B981&center=true&vCenter=true&width=520&lines=Building+from+scratch;Android+%40+TikTok+Visual+Search;Incoming+SDE+%40+Amazon;Artist+when+the+screen+goes+dark" alt="typing" />
   </a>
 </p>
 
@@ -24,6 +22,10 @@
   <a href="https://github.com/JustinC0407">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
+</p>
+
+<p align="center">
+  📫 &nbsp;<code>justin.s.chen@columbia.edu</code>
 </p>
 
 ---
@@ -68,9 +70,10 @@
 
 ---
 
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=JustinC0407&show_icons=true&hide_border=true&title_color=059669&icon_color=34D399&text_color=768390&bg_color=00000000" alt="stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JustinC0407&layout=compact&hide_border=true&title_color=059669&text_color=768390&bg_color=00000000" alt="top languages" />
-</div>
+### 🌐 Languages
+
+`English` &nbsp; `中文 / Chinese`
+
+---
 
 <p align="center"><i>Always building something. Sometimes it's code, sometimes it's a canvas.</i></p>
